@@ -21,11 +21,11 @@ import 'package:expandable_search_bar/expandable_search_bar.dart';
 <tr>
 <td>
 
-![Preview1](https://user-images.githubusercontent.com/31685655/172933542-434d948d-4c72-4b1c-ae4b-d27c60774043.mp4)
+![Preview1](https://user-images.githubusercontent.com/31685655/172946297-89d0c2f3-5964-4bcb-8b48-761c754c9a80.gif)
 </td>
 <td>
 
-![Preview2](https://user-images.githubusercontent.com/31685655/172932914-2792e284-fe67-4fb2-ac0d-afb2556315cc.mp4)
+![Preview2](https://user-images.githubusercontent.com/31685655/172946097-40e34955-6812-40d9-8e66-9104297dc5d3.gif)
 </td>
 </table>
 
