@@ -1,7 +1,7 @@
-name: animated_search_bar
+name: expandable_search_bar
 description: An animated flutter search bar package.
 version: 0.0.1
-homepage: https://github.com/SalehTZ/flutter_animated_search_bar
+homepage: https://github.com/SalehTZ/expandable_search_bar
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
