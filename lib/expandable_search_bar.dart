@@ -120,7 +120,7 @@ class _ExpandableSearchBarState extends State<ExpandableSearchBar> {
   @override
   Widget build(BuildContext context) {
     // bool amIHovering = false;
-    Offset exitFrom = const Offset(0, 0);
+    // Offset exitFrom = const Offset(0, 0);
     return MouseRegion(
       onEnter: (details) => setState(() {
         // TODO: make it also available for mobile devices
@@ -131,7 +131,7 @@ class _ExpandableSearchBarState extends State<ExpandableSearchBar> {
         // amIHovering = false;
         isSearchbarHidden = true;
         // You can use details.position if you are interested in the global position of your pointer.
-        exitFrom = details.localPosition;
+        // exitFrom = details.localPosition;
       }),
       child: AnimatedContainer(
         width: isSearchbarHidden
