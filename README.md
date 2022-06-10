@@ -29,6 +29,8 @@ import 'package:expandable_search_bar/expandable_search_bar.dart';
 </td>
 </table>
 
+#### ⚠Note: As you see in the screenshots this package is only available on Mouse devices (Web, Windows, macOS, Linux), but I'm working on a solution to add mobile devices too.
+
 ## Example
 There are a number of properties that you can modify.
 Customize them as you want:
@@ -43,6 +45,7 @@ Customize them as you want:
  - shadow under the button
  - animation duration (also for TextField)
  - animation curve (also for TextField)
+
 
 <table>
 <tr>
