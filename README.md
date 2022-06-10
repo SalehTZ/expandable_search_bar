@@ -9,7 +9,7 @@ Animated Search Bar package lets you add a beautiful search bar to your Flutter 
 1. Add the latest version of package to your pubspec.yaml (and run`dart pub get`):
 ```yaml
 dependencies:
-  expandable_search_bar: ^0.0.1
+  expandable_search_bar: ^latest_version
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
