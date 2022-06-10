@@ -92,7 +92,7 @@ class AnimatedBar extends StatelessWidget {
 
  - [ ] Support mobile devices (Unfortunately it's only available for "cursored" devices).
  
- - [ ] Change font and color style for text.
+ - [ ] Change font style and color for text.
 
 
 ## Support

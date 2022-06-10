@@ -1,6 +1,6 @@
 name: expandable_search_bar
-description: An animated flutter search bar package.
-version: 0.0.1
+description: A beautiful animated search bar for flutter. You can customize it as mush as you want.
+version: 0.0.2
 homepage: https://github.com/SalehTZ/expandable_search_bar
 
 environment:
